@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="00330-80000-00000-AA373"/>
+            <Binding Key="2" Value="1H15411045"/>
+            <Binding Key="4" Value="OFRCRllQMw=="/>
+            <Binding Key="5" Value="74:86:e2:25:7f:d3"/>
+        </MachineBindings>
+        <MachineID Value="CdKR5I+RW02eyKF8EZ9ZQJjRD2g="/>
+        <SerialHash Value="b3297c1f435ca679c5607496ccab4fa19730d92a"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+            <Feature Value="60"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LVVNNFQtVlRCVC1HNERULTRKSzctNThRRA=="/>
+        <SerialMasked Value="F4-UM4T-VTBT-G4DT-4JK7-XXXX"/>
+        <StartDate Value="2023-07-13T00:00:00"/>
+        <StopDate Value="2023-08-21T14:42:49"/>
+        <UpdateDate Value="2023-07-21T13:42:48"/>
+        <InitialActivationDate Value="2023-07-13T11:28:50"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2017.2.0"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+            <Entitlement Ns="unity_editor" Tag="DarkSkin" Type="EDITOR_FEATURE" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>O2NPdhlmnhEXwOthpyZ8esO8CrY=</DigestValue></Reference></SignedInfo><SignatureValue>xmkHiK+OLCBl+IEo/doNO4E4AXMokfy5aiAl+sZeG0poqvc1Lcdbo8yI2hWKjOWyyjGha1/AD28q&#13;
+4QHPPSohYoGhsglkptnYGBqFKE8ocQD5kXQNvJlO8CTYW8E6xmR0KJlPxy6JrolVv/V3oTiqZHr+&#13;
+HGS8NE//DQQaq3y9IfSiQHhfSRJD2EmjL3FhQJL6sg+N3pvN9er3InjMPaGkcLc9/mBFzc9sn8I2&#13;
+KEEqWM3OldAuJXj9S6HcHebXOI1CccWWxWlMnq+i4J/AVNZ6V+Lcg6QW/A39WT4NXvYXEAlP7s/x&#13;
+nxcha+r/QCV2ctNlte9z7aoS/1vJxXpb+7UBOg==</SignatureValue></Signature></root>
